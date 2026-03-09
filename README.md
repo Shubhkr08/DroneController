@@ -1,4 +1,5 @@
-<img width="636" height="960" alt="Screenshot (245)" src="https://github.com/user-attachments/assets/db19539e-2b91-4fa0-8ab7-c2b7dda18ded" /># DroneController
+
+# DroneController
 I made a custom Drone Controller based on STM32F401CBUx and has IMU and barometer and has a USB-B Type. It is designed for 4 motor drone.
 <br><img width="780" height="889" alt="Screenshot (244)" src="https://github.com/user-attachments/assets/c92d24d2-da4a-4e6f-88e6-6f20b27cf389" />
 
